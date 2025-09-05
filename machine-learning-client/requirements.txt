@@ -1,0 +1,16 @@
+Flask
+Werkzeug
+flask-cors
+Pillow
+torch
+ultralytics
+numpy
+requests
+pytest
+opencv-python
+pymongo
+coverage
+python-dotenv
+pylint
+black
+pytest-cov
